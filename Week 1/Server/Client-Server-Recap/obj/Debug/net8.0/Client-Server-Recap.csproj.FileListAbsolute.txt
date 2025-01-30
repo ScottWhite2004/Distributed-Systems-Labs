@@ -1,0 +1,15 @@
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\bin\Debug\net8.0\Client-Server-Recap.exe
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\bin\Debug\net8.0\Client-Server-Recap.deps.json
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\bin\Debug\net8.0\Client-Server-Recap.runtimeconfig.json
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\bin\Debug\net8.0\Client-Server-Recap.dll
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\bin\Debug\net8.0\Client-Server-Recap.pdb
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.AssemblyInfoInputs.cache
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.AssemblyInfo.cs
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.csproj.CoreCompileInputs.cache
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.sourcelink.json
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.dll
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\refint\Client-Server-Recap.dll
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.pdb
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\Client-Server-Recap.genruntimeconfig.cache
+C:\Users\712769\Workspace\Distributed-Systems-Labs\Week 1\Server\Client-Server-Recap\obj\Debug\net8.0\ref\Client-Server-Recap.dll
