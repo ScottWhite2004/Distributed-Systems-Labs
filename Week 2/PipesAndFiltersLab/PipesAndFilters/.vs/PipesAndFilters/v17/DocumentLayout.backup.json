@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\",
+  "WorkspaceRootPath": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\authenticatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\filters\\authenticatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\translatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\filters\\translatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\pipes\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\serverenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\serverenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\endpoints\\helloworldendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\endpoints\\helloworldendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\timestampfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\filters\\timestampfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\pipes\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\pipes\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\filters\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\pipes\\ipipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\pipes\\ipipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\messages\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\messages\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\downloads\\pipesandfilterslab\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\messages\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\messages\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\filters\\authenticatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\filters\\authenticatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|c:\\users\\712769\\onedrive - hull.ac.uk\\github\\distributed-systems-labs\\week 2\\pipesandfilterslab\\pipesandfilters\\pipesandfilters\\pipes\\ipipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C1B3F-A4C4-4B60-82DE-077D337B724C}|PipesAndFilters\\PipesAndFilters.csproj|solutionrelative:pipesandfilters\\pipes\\ipipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +58,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\EntryPoint.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\EntryPoint.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\EntryPoint.cs",
+              "RelativeToolTip": "PipesAndFilters\\EntryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:41:42.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloWorldEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Endpoints\\HelloWorldEndpoint.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\Endpoints\\HelloWorldEndpoint.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Endpoints\\HelloWorldEndpoint.cs",
+              "RelativeToolTip": "PipesAndFilters\\Endpoints\\HelloWorldEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:35:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerEnvironment.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\ServerEnvironment.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\ServerEnvironment.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\ServerEnvironment.cs",
+              "RelativeToolTip": "PipesAndFilters\\ServerEnvironment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:34:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimestampFilter.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\TimestampFilter.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\Filters\\TimestampFilter.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\TimestampFilter.cs",
+              "RelativeToolTip": "PipesAndFilters\\Filters\\TimestampFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:32:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranslateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\TranslateFilter.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\Filters\\TranslateFilter.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\TranslateFilter.cs",
+              "RelativeToolTip": "PipesAndFilters\\Filters\\TranslateFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:12:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Client.cs",
+              "RelativeDocumentMoniker": "PipesAndFilters\\Client.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Client.cs",
+              "RelativeToolTip": "PipesAndFilters\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:10:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthenticateFilter.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\AuthenticateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\AuthenticateFilter.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Filters\\AuthenticateFilter.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\AuthenticateFilter.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\AuthenticateFilter.cs",
               "RelativeToolTip": "PipesAndFilters\\Filters\\AuthenticateFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T09:31:38.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\Message.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\Message.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Messages\\Message.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\Message.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\Message.cs",
               "RelativeToolTip": "PipesAndFilters\\Messages\\Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,24 +166,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Pipe.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\Pipe.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\Pipe.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Pipes\\Pipe.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\Pipe.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\Pipe.cs",
               "RelativeToolTip": "PipesAndFilters\\Pipes\\Pipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T09:24:43.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IFilter.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\IFilter.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\IFilter.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Filters\\IFilter.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\IFilter.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Filters\\IFilter.cs",
               "RelativeToolTip": "PipesAndFilters\\Filters\\IFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "IPipe.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\IPipe.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\IPipe.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Pipes\\IPipe.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\IPipe.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Pipes\\IPipe.cs",
               "RelativeToolTip": "PipesAndFilters\\Pipes\\IPipe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,20 +205,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IMessage.cs",
-              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\IMessage.cs",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\IMessage.cs",
               "RelativeDocumentMoniker": "PipesAndFilters\\Messages\\IMessage.cs",
-              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\Downloads\\PipesAndFiltersLab\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\IMessage.cs",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\Distributed-Systems-Labs\\Week 2\\PipesAndFiltersLab\\PipesAndFilters\\PipesAndFilters\\Messages\\IMessage.cs",
               "RelativeToolTip": "PipesAndFilters\\Messages\\IMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T09:18:12.335Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

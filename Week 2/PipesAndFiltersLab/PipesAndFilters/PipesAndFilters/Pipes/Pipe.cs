@@ -12,6 +12,11 @@ namespace PipesAndFilters.Pipes
     {
         
         private List<IFilter> Filters { get; set; }
+
+        public Pipe()
+        {
+            Filters = new List<IFilter>();
+        }
         public IMessage ProcessMessage(IMessage message)
         {
             IMessage returnMessage = message;

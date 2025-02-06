@@ -17,8 +17,10 @@ namespace PipesAndFilters.Filters
                 {
                     int value = int.Parse(message.Headers[header]);
                     ServerEnvironment.SetCurrentUser(value);
+                    return message;
                 }
             }
+            return message;
         }
     }
 }
